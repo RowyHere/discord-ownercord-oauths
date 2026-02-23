@@ -1214,7 +1214,7 @@ Watch tutorials and feature showcases.
 ### 🐛 Issues
 Report bugs and request features.
 
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/ownercord/issues)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RowyHere/discord-ownercord-oauths/issues)
 
 </td>
 </tr>
