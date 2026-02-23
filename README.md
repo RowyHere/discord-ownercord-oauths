@@ -205,7 +205,7 @@ Before you begin, ensure you have the following installed:
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ownercord.git
+git clone https://github.com/RowyHere/discord-ownercord-oauths.git
 cd ownercord
 ```
 
@@ -1154,8 +1154,8 @@ We're especially interested in contributions for:
 
 ### Getting Help
 
-- 💬 **Discord**: Join our [community server](https://discord.gg/oauths)
-- 📧 **Email**: support@ownercord.com
+- 💬 **Discord**: Join our [community server](https://discord.gg/ininal)
+- 📧 **Email**: contact@rowycik.me
 - 📖 **Documentation**: Check the README and code comments
 - 🐛 **Issues**: Search existing issues before creating new ones
 
@@ -1198,7 +1198,7 @@ See the [LICENSE](LICENSE) file for full details.
 ### 💬 Discord
 Join our community server for help, updates, and discussions.
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oauths)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ininal)
 
 </td>
 <td align="center" width="33%">
@@ -1222,48 +1222,10 @@ Report bugs and request features.
 
 ### Contact Information
 
-- **Email**: support@ownercord.com
-- **Discord**: [OwnerCord Community](https://discord.gg/oauths)
+- **Email**: contact@rowycik.me
+- **Discord**: [OwnerCord Community](https://discord.gg/ininal)
 - **YouTube**: [RowyHere](http://youtube.com/RowyHere)
-
-### FAQ
-
-<details>
-<summary><strong>How do I upgrade my plan?</strong></summary>
-<br>
-Contact us on Discord or via email to discuss plan upgrades and pricing.
-</details>
-
-<details>
-<summary><strong>Can I use this for multiple bots?</strong></summary>
-<br>
-Yes! The system supports multiple bots. Free plan allows 1 bot, VIP allows 5 bots, and Premium allows unlimited bots.
-</details>
-
-<details>
-<summary><strong>Is this against Discord's Terms of Service?</strong></summary>
-<br>
-This system uses Discord's official OAuth2 API. However, you are responsible for ensuring your use case complies with Discord's Terms of Service and Community Guidelines.
-</details>
-
-<details>
-<summary><strong>How do I reset my bot's configuration?</strong></summary>
-<br>
-Use the <code>/features reset</code> command to reset specific features, or contact support for full bot reset.
-</details>
-
-<details>
-<summary><strong>What happens if my bot goes offline?</strong></summary>
-<br>
-PM2 automatically restarts crashed bots. Check logs with <code>pm2 logs</code> to diagnose issues.
-</details>
-
-<details>
-<summary><strong>Can I self-host this system?</strong></summary>
-<br>
-Yes! This is an open-source project. Follow the installation guide to set up your own instance.
-</details>
-
+- 
 ---
 
 ## ⚠️ Disclaimer
@@ -1305,15 +1267,15 @@ Special thanks to:
 
 **If you find this project useful, please consider:**
 
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/ownercord?style=social)](https://github.com/yourusername/ownercord)
-[![Fork on GitHub](https://img.shields.io/github/forks/yourusername/ownercord?style=social)](https://github.com/yourusername/ownercord/fork)
-[![Watch on GitHub](https://img.shields.io/github/watchers/yourusername/ownercord?style=social)](https://github.com/yourusername/ownercord)
+[![Star on GitHub](https://img.shields.io/github/stars/RowyHere/discord-ownercord-oauths?style=social)](https://github.com/RowyHere/discord-ownercord-oauths)
+[![Fork on GitHub](https://img.shields.io/github/forks/RowyHere/discord-ownercord-oauths?style=social)](https://github.com/RowyHere/discord-ownercord-oauths/fork)
+[![Watch on GitHub](https://img.shields.io/github/watchers/RowyHere/discord-ownercord-oauths?style=social)](https://github.com/RowyHere/discord-ownercord-oauths)
 
 ### ⭐ Star this repository if you found it helpful!
 
 ---
 
-**© 2024 OwnerCord. All rights reserved.**
+**© 2026 OwnerCord. All rights reserved.**
 
 [Back to Top](#-ownercord)
 
